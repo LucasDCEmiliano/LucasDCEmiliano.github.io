@@ -4,3 +4,9 @@
 Página index criada contendo menu, banner, destaque, novidades, galeria e rodapé para layout de desktop aplicando a linguagem HTML5, e mais 4 páginas vinculadas à página index.
 
 https://lucasdcemiliano.github.io/UC9-S2-AO1/
+
+#### Tecnologia Usada:
+<table>
+<tr>
+<td> HTML </td>
+</tr>
