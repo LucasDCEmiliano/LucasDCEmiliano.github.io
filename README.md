@@ -9,7 +9,7 @@
 
 [✔️] Customização das outras páginas anexadas a Index
 
-[⠀⠀] Tornar o Layout responsivo
+[✔️] Tornar o Layout responsivo
 
 [⠀⠀] Elaborar uma apresentação em Point Point do resultado final
 
