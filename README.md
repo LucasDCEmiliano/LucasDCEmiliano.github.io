@@ -17,7 +17,7 @@
 
 [Link da Apresentação do Layout feito no Figma em PowerPoint](https://1drv.ms/p/s!Aqh4W9v94n9IjEq8Y681wLNNpqvG?e=MV4MdN)
 
-[Link da Apresentação do Site Final em PowerPoint](https://1drv.ms/p/s!Aqh4W9v94n9IjFHeszgVAekrj090?e=VTyVu8)
+[Link da Apresentação do Site Final em PowerPoint](https://1drv.ms/p/s!Aqh4W9v94n9IjFHeszgVAekrj090?e=6cCPut)
 
 #### Tecnologias Usadas:
 
