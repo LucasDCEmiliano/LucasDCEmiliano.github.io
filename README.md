@@ -11,11 +11,13 @@
 
 [✔️] Tornar o Layout responsivo
 
-[⠀⠀] Elaborar uma apresentação em Point Point do resultado final
+[✔️] Elaborar uma apresentação em Point Point do resultado final
 
 [Link do Projeto](https://lucasdcemiliano.github.io/)
 
 [Link da Apresentação do Layout feito no Figma em PowerPoint](https://1drv.ms/p/s!Aqh4W9v94n9IjEq8Y681wLNNpqvG?e=MV4MdN)
+
+[Link da Apresentação do Site Final em PowerPoint](https://1drv.ms/p/s!Aqh4W9v94n9IjFHeszgVAekrj090?e=VTyVu8)
 
 #### Tecnologias Usadas:
 
